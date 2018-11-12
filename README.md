@@ -15,7 +15,7 @@ Acessar o site -> Documentation -> Getting Started
 * cd simfony
 * composer create-project symfony/website-skeleton seu-projeto
 7. cd seu-projeto
-8. rode locamente com o comando:
+8. rode localmente com o comando:
 * php bin/console server:run
 
 # Pule para o Controller
