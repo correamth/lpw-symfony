@@ -41,6 +41,10 @@ DATABASE_URL=mysql://root:@127.0.0.1:3306/formulario
 * php bin/console doctrine:database:create
 4. Crie a entidade:
 * php bin/console make:entity
+
+
+
+
 Vai pedir o seguinte:
 ```go
 C:\xampp\htdocs\symfonytrabalho2\formulario>php bin/console make:entity
@@ -122,7 +126,7 @@ C:\xampp\htdocs\symfonytrabalho2\formulario>php bin/console make:crud Produto
 ```
 2. Rode o server:
 * php bin/console server:run
-3. Está pronto http://127.0.0.1:8000/produto/.
+3. Está pronto http://127.0.0.1:8000/produto/
 
 # Para deixar mais bonito
 
