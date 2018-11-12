@@ -11,8 +11,8 @@ Acessar o site -> Documentation -> Getting Started
 1. Instalar o [composer](https://getcomposer.org/download/)
 2. Verificar se o PHP da sua máquina(xampp) é 7.1+
 3. Na linha de comando, vá até a htdocs e crie uma pasta
-4. mkdir simfony
-5. cd simfony
+* mkdir simfony
+* cd simfony
 * composer create-project symfony/website-skeleton seu-projeto
 7. cd seu-projeto
 8. rode locamente com o comando:
