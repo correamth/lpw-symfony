@@ -20,7 +20,7 @@ Acessar o site -> Documentation -> Getting Started
 
 # Pule para o Controller
 
-[Chapter 4. Controllers](https://symfony.com/doc/current/index.html#gsc.tab=0) dessa até o subtitulo Generating Controllers:
+[Chapter 4. Controllers](https://symfony.com/doc/current/index.html#gsc.tab=0) vá até o subtitulo Generating Controllers:
 
 1. Gere um classe controller com o comando: 
 * php bin/console make:controller BrandNewController
