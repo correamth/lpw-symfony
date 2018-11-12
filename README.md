@@ -132,7 +132,7 @@ C:\xampp\htdocs\symfonytrabalho2\formulario>php bin/console make:crud Produto
 
 1. Aproveite o twig, vá até seu-projeto/templates/produto/base.html.twig e coloque o cdn do bootstrap
 * Todas as paginas que foram criadas automaticamente para o CRUD do seu produto, estão recebendo essa base.
-![ss](https://raw.githubusercontent.com/correamth/symfony-lpw/master/symfony.png)
+![ss](https://raw.githubusercontent.com/correamth/lpw-simfony/master/symfony.png)
 
 # Obrigado.
 
