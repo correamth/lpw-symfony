@@ -1,4 +1,4 @@
-## symfony-lpw
+## Atividade avaliativa de Linguagem de Programação para a WEB
 
 # Passo a Passo para criação do seu primeiro CRUD com o Framework [Simfony](https://symfony.com/)
 
